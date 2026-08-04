@@ -1,0 +1,12 @@
+[
+  "aggregation",
+  "axum",
+  "discovery",
+  "events",
+  "evgl",
+  "geospatial",
+  "leptos",
+  "rust",
+  "ssr",
+  "websocket"
+]
